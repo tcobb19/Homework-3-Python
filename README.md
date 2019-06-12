@@ -1,3 +1,4 @@
 # Homework-3-Python
 
-This is a change to this file.
+This is the completed repository for Unit 3 | Assignment - Py Me Up, Charlie
+
